@@ -1,0 +1,19 @@
+{
+"Go": [
+    "chromium --new-window https://pkg.go.dev/",
+    "code --new-window",
+    "footclient"
+],
+"Bash": [
+    "chromium --new-window https://www.gnu.org/doc/doc.html",
+    "subl --new-window",
+    "footclient"
+],
+"Archlinux": [
+    "chromium --new-window https://wiki.archlinux.org/",
+    "footclient"
+],
+"Email": [
+    "firefox --new-window https://mail.google.com/mail/u/0/#inbox https://mail.proton.me/u/1/inbox"
+]
+}
