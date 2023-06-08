@@ -1,0 +1,35 @@
+{
+"Trading": [
+    "chromium --new-window https://fr.tradingview.com/chart/uKlgukQU/ https://mt5.ftmo.com/",
+    "chromium --new-window https://fr.tradingview.com/chart/uKlgukQU/"
+],
+"Go": [
+    "chromium --new-window https://pkg.go.dev/",
+    "subl --new-window",
+    "footclient"
+],
+"I3status": [
+    "chromium --new-window https://pkg.go.dev/ https://greshake.github.io/i3status-rust/i3status_rs/blocks/custom/index.html",
+    "subl --project /home/yves/Dev/Sublime/i3status.sublime-project",
+    "footclient --working-directory=/home/yves/.config/i3status"
+],
+"Bash": [
+    "chromium --new-window https://www.gnu.org/doc/doc.html",
+    "subl --new-window",
+    "footclient"
+],
+"Archlinux": [
+    "chromium --new-window https://wiki.archlinux.org/",
+    "footclient"
+],
+"Movies": [
+    "chromium --new-window https://yts.mx/ https://thepiratebay.org/index.html https://app.plex.tv/desktop/#!/ https://subscene.com/",
+    "transmission-remote-gtk"
+],
+"Banque": [
+    "chromium --new-window https://www.hsbc.com.vn/en-vn/ https://www.hsbc.fr/"
+],
+"Email": [
+    "chromium --new-window https://mail.google.com/mail/u/0/#inbox https://mail.proton.me/u/1/inbox"
+]
+}
